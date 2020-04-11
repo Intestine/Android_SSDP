@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSDPTest</string>
+    <string name="app_version">1.0.1beta</string>
+    <string name="author">Author:Intestine</string>
+    <string name="email">Email:994287643@qq.com</string>
+    <string name="git_hub">Git hub:github.com/Intestine/Android_SSDP</string>
+</resources>
